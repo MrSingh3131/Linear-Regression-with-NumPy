@@ -14,11 +14,11 @@ By the end of this course, I was able to build linear regression models from scr
 The project on Linear Regression with NumPy and Python was divided into the following tasks:
 
 - Task 1: Introduction and Import Libraries
-Introduction to the data set and the problem overview.
-See a demo of the final product you will build by the end of this project.
-Introduction to the Rhyme interface.
-Import essential modules and helper functions from NumPy and Matplotlib.
-Task 2: Load the Data and Libraries
+        Introduction to the data set and the problem overview.
+        See a demo of the final product you will build by the end of this project.
+        Introduction to the Rhyme interface.
+        Import essential modules and helper functions from NumPy and Matplotlib.
+- Task 2: Load the Data and Libraries
 Load the dataset using pandas.
 Explore the pandas dataframe using the head() and info() functions.
 Task 3: Visualize the Data
