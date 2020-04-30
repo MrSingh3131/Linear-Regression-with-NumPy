@@ -16,11 +16,11 @@ The project on Linear Regression with NumPy and Python was divided into the foll
 - Task 1: Introduction and Import Libraries
         Introduction to the data set and the problem overview.
         Import essential modules and helper functions from NumPy and Matplotlib.
-        
+
 - Task 2: Load the Data and Libraries
         Load the dataset using pandas.
         Explore the pandas dataframe using the head() and info() functions.
-        
+
 - Task 3: Visualize the Data
         Understand the data by visualizing it.
         For this dataset, I will use a scatter plot using Seaborn to visualize the data, since it has only two variables: the         profit and population.
@@ -45,3 +45,13 @@ The project on Linear Regression with NumPy and Python was divided into the foll
         Now that I have correctly implemented and run gradient descent and arrived at the final parameters of my model, I    can use these parameters to plot the linear fit.
 - Task 9: Inference using the optimized 𝜃 values
 In this final task, I will use my final values for 𝜃 to make predictions on profits in cities of 35,000 and 70,000 people.
+
+
+
+##Certificate Details
+- Name: Linear Regression with NumPy and Python
+- Issuing Organization: Coursera
+- Issue Date: April 2020
+- Expiration Date: This certification does not expire
+- Credential ID: N5SLYJAUPNQF
+- Credential URL: https://www.coursera.org/account/accomplishments/certificate/N5SLYJAUPNQF
